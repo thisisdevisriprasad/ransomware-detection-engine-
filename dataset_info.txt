@@ -1,0 +1,36 @@
+Shape: (62485, 17)
+
+None
+
+Summary Statistics:
+            Machine     DebugSize      DebugRVA  ...  DllCharacteristics  ResourceSize  BitcoinAddresses
+count  62485.000000  6.248500e+04  6.248500e+04  ...        62485.000000  6.248500e+04      62485.000000
+mean    6756.472657  2.587048e+04  1.541611e+05  ...        12966.031400  1.844664e+05          0.018004
+std    13345.499919  6.461396e+06  1.903142e+06  ...        15762.725511  1.732625e+07          0.132968
+min        0.000000  0.000000e+00  0.000000e+00  ...            0.000000  0.000000e+00          0.000000
+25%      332.000000  0.000000e+00  0.000000e+00  ...            0.000000  1.080000e+03          0.000000
+50%      332.000000  0.000000e+00  0.000000e+00  ...          320.000000  2.496000e+03          0.000000
+75%      332.000000  2.800000e+01  1.283200e+04  ...        32768.000000  2.350400e+04          0.000000
+max    43620.000000  1.615155e+09  2.852127e+08  ...        58632.000000  4.294942e+09          1.000000
+
+[8 rows x 15 columns]
+
+Missing Values:
+FileName              0
+md5Hash               0
+Machine               0
+DebugSize             0
+DebugRVA              0
+MajorImageVersion     0
+MajorOSVersion        0
+ExportRVA             0
+ExportSize            0
+IatVRA                0
+MajorLinkerVersion    0
+MinorLinkerVersion    0
+NumberOfSections      0
+SizeOfStackReserve    0
+DllCharacteristics    0
+ResourceSize          0
+BitcoinAddresses      0
+dtype: int64
